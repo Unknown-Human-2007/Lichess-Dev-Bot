@@ -430,7 +430,7 @@ def intro():
     .  // o\
     .  || ._)  lichess-bot %s
     .  //__\
-    .  )___(   Play on Lichess with a bot (all variants)
+    .  )___(   Play on Lichess with a bot
     """ % __version__
 
 
